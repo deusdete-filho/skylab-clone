@@ -1,7 +1,5 @@
 <p align="center">
-<h1 align="center">
-    <h1>Skaylab Clone</h1>
-</h1>
+Skaylab Clone
 </p>
 
 <p align="center">
