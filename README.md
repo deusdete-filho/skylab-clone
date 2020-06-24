@@ -1,6 +1,8 @@
+<p align="center">
 <h1 align="center">
     <h1>Skaylab Clone</h1>
 </h1>
+</p>
 
 <p align="center">
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
